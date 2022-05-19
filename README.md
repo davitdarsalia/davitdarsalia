@@ -1,4 +1,4 @@
-a href="https://linktr.ee/davitdarsalia">Hi There 👋, My Name is Davit</a>
+<a href="https://linktr.ee/davitdarsalia">Hi There 👋, My Name is Davit</a>
 
 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davitdarsalia/)
 
